@@ -1,0 +1,6 @@
+--创建用户表
+create table T_USER
+(
+  username VARCHAR2(32),
+  password VARCHAR2(32)
+)

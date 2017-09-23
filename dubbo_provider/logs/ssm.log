@@ -1,0 +1,107 @@
+[INFO] [2017-08-17 14:23:24][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+  [INFO] [2017-08-17 14:23:25][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@4a05bc0c: startup date [Thu Aug 17 14:23:25 CST 2017]; root of context hierarchy
+  [INFO] [2017-08-17 14:23:25][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+  [INFO] [2017-08-17 14:23:25][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2017-08-17 14:23:25][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@4a05bc0c: startup date [Thu Aug 17 14:23:25 CST 2017]; root of context hierarchy
+  [INFO] [2017-08-17 14:24:31][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+  [INFO] [2017-08-17 14:24:31][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@3e7cddcb: startup date [Thu Aug 17 14:24:31 CST 2017]; root of context hierarchy
+  [INFO] [2017-08-17 14:24:31][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+  [INFO] [2017-08-17 14:24:31][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2017-08-17 14:24:31][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@3e7cddcb: startup date [Thu Aug 17 14:24:31 CST 2017]; root of context hierarchy
+  [INFO] [2017-08-17 14:30:05][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+  [INFO] [2017-08-17 14:30:05][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@4a05bc0c: startup date [Thu Aug 17 14:30:05 CST 2017]; root of context hierarchy
+  [INFO] [2017-08-17 14:30:05][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+  [INFO] [2017-08-17 14:30:05][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2017-08-17 14:30:05][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@4a05bc0c: startup date [Thu Aug 17 14:30:05 CST 2017]; root of context hierarchy
+  [INFO] [2017-08-17 14:31:36][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+  [INFO] [2017-08-17 14:31:36][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@77c55a79: startup date [Thu Aug 17 14:31:36 CST 2017]; root of context hierarchy
+  [INFO] [2017-08-17 14:31:36][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+  [INFO] [2017-08-17 14:31:36][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2017-08-17 14:31:36][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@77c55a79: startup date [Thu Aug 17 14:31:36 CST 2017]; root of context hierarchy
+  [INFO] [2017-08-17 14:33:23][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+  [INFO] [2017-08-17 14:33:23][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@3e7cddcb: startup date [Thu Aug 17 14:33:23 CST 2017]; root of context hierarchy
+  [INFO] [2017-08-17 14:33:23][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+  [INFO] [2017-08-17 14:33:23][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2017-08-17 14:33:26][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@3e7cddcb: startup date [Thu Aug 17 14:33:23 CST 2017]; root of context hierarchy
+  [INFO] [2017-08-17 14:37:08][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+  [INFO] [2017-08-17 14:37:08][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@3e7cddcb: startup date [Thu Aug 17 14:37:08 CST 2017]; root of context hierarchy
+  [INFO] [2017-08-17 14:37:08][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+  [INFO] [2017-08-17 14:37:08][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2017-08-17 14:37:09][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@3e7cddcb: startup date [Thu Aug 17 14:37:08 CST 2017]; root of context hierarchy
+  [INFO] [2017-08-17 14:45:37][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+  [INFO] [2017-08-17 14:45:37][org.springframework.context.support.GenericApplicationContext]Refreshing org.springframework.context.support.GenericApplicationContext@3db6fb5d: startup date [Thu Aug 17 14:45:37 CST 2017]; root of context hierarchy
+  [INFO] [2017-08-17 14:45:37][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+  [INFO] [2017-08-17 14:45:37][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2017-08-17 14:45:37][Test]用户名为:xiaoming的密码是:111
+  [INFO] [2017-08-17 14:45:37][org.springframework.context.support.GenericApplicationContext]Closing org.springframework.context.support.GenericApplicationContext@3db6fb5d: startup date [Thu Aug 17 14:45:37 CST 2017]; root of context hierarchy
+  [INFO] [2017-09-23 16:51:44][com.zZooper.model.DubboProvider]dubbo_privider初始化开始
+  [INFO] [2017-09-23 16:51:44][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@16643d4: startup date [Sat Sep 23 16:51:44 CST 2017]; root of context hierarchy
+  [INFO] [2017-09-23 16:51:44][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [dubbo-provider.xml]
+  [INFO] [2017-09-23 16:51:44][com.alibaba.dubbo.common.logger.LoggerFactory]using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+  [ERROR] [2017-09-23 16:51:45][com.zZooper.model.DubboProvider]dubbo_privider初始化异常:org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'com.zZooper.service.DubboProviderService': Instantiation of bean failed; nested exception is java.lang.ExceptionInInitializerError
+  [INFO] [2017-09-23 16:51:45][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Run shutdown hook now., dubbo version: 2.5.5, current host: 127.0.0.1
+  [INFO] [2017-09-23 16:51:45][com.alibaba.dubbo.registry.support.AbstractRegistryFactory] [DUBBO] Close all registries [], dubbo version: 2.5.5, current host: 127.0.0.1
+  [INFO] [2017-09-23 16:51:57][com.zZooper.model.DubboProvider]dubbo_privider初始化开始
+  [INFO] [2017-09-23 16:52:01][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@199d22e: startup date [Sat Sep 23 16:52:01 CST 2017]; root of context hierarchy
+  [INFO] [2017-09-23 16:52:01][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [dubbo-provider.xml]
+  [INFO] [2017-09-23 16:52:01][com.alibaba.dubbo.common.logger.LoggerFactory]using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+  [ERROR] [2017-09-23 16:52:08][com.zZooper.model.DubboProvider]dubbo_privider初始化异常:org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'com.zZooper.service.DubboProviderService': Instantiation of bean failed; nested exception is java.lang.ExceptionInInitializerError
+  [INFO] [2017-09-23 16:52:10][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Run shutdown hook now., dubbo version: 2.5.5, current host: 127.0.0.1
+  [INFO] [2017-09-23 16:52:10][com.alibaba.dubbo.registry.support.AbstractRegistryFactory] [DUBBO] Close all registries [], dubbo version: 2.5.5, current host: 127.0.0.1
+  [INFO] [2017-09-23 16:57:24][com.zZooper.model.DubboProvider]dubbo_privider初始化开始
+  [INFO] [2017-09-23 16:57:26][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@199d22e: startup date [Sat Sep 23 16:57:26 CST 2017]; root of context hierarchy
+  [INFO] [2017-09-23 16:57:26][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [META-INFO/spring/dubbo-provider.xml]
+  [INFO] [2017-09-23 16:57:26][com.alibaba.dubbo.common.logger.LoggerFactory]using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+  [ERROR] [2017-09-23 16:57:31][com.zZooper.model.DubboProvider]dubbo_privider初始化异常:org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'com.zZooper.service.DubboProviderService': Instantiation of bean failed; nested exception is java.lang.ExceptionInInitializerError
+  [INFO] [2017-09-23 16:57:33][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Run shutdown hook now., dubbo version: 2.5.5, current host: 127.0.0.1
+  [INFO] [2017-09-23 16:57:33][com.alibaba.dubbo.registry.support.AbstractRegistryFactory] [DUBBO] Close all registries [], dubbo version: 2.5.5, current host: 127.0.0.1
+  [INFO] [2017-09-23 16:58:55][com.zZooper.model.DubboProvider]dubbo_privider初始化开始
+  [INFO] [2017-09-23 16:58:55][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@199d22e: startup date [Sat Sep 23 16:58:55 CST 2017]; root of context hierarchy
+  [INFO] [2017-09-23 16:58:55][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [META-INFO/spring/dubbo-provider.xml]
+  [INFO] [2017-09-23 16:58:56][com.alibaba.dubbo.common.logger.LoggerFactory]using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+  [ERROR] [2017-09-23 16:58:58][com.zZooper.model.DubboProvider]dubbo_privider初始化异常:org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'com.zZooper.service.DubboProviderService': Instantiation of bean failed; nested exception is java.lang.ExceptionInInitializerError
+  [INFO] [2017-09-23 16:59:00][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Run shutdown hook now., dubbo version: 2.5.5, current host: 127.0.0.1
+  [INFO] [2017-09-23 16:59:00][com.alibaba.dubbo.registry.support.AbstractRegistryFactory] [DUBBO] Close all registries [], dubbo version: 2.5.5, current host: 127.0.0.1
+  [INFO] [2017-09-23 16:59:48][com.zZooper.model.DubboProvider]dubbo_privider初始化开始
+  [INFO] [2017-09-23 16:59:49][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@199d22e: startup date [Sat Sep 23 16:59:49 CST 2017]; root of context hierarchy
+  [INFO] [2017-09-23 16:59:49][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [META-INFO/spring/dubbo-provider.xml]
+  [INFO] [2017-09-23 16:59:49][com.alibaba.dubbo.common.logger.LoggerFactory]using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+  [ERROR] [2017-09-23 16:59:51][com.zZooper.model.DubboProvider]dubbo_privider初始化异常:org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'com.zZooper.service.DubboProviderService': Instantiation of bean failed; nested exception is java.lang.ExceptionInInitializerError
+  [INFO] [2017-09-23 16:59:52][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Run shutdown hook now., dubbo version: 2.5.5, current host: 127.0.0.1
+  [INFO] [2017-09-23 16:59:52][com.alibaba.dubbo.registry.support.AbstractRegistryFactory] [DUBBO] Close all registries [], dubbo version: 2.5.5, current host: 127.0.0.1
+  [INFO] [2017-09-23 17:00:31][com.zZooper.model.DubboProvider]dubbo_privider初始化开始
+  [INFO] [2017-09-23 17:00:31][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@199d22e: startup date [Sat Sep 23 17:00:31 CST 2017]; root of context hierarchy
+  [INFO] [2017-09-23 17:00:31][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [dubbo-provider.xml]
+  [INFO] [2017-09-23 17:00:32][com.alibaba.dubbo.common.logger.LoggerFactory]using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+  [ERROR] [2017-09-23 17:00:35][com.zZooper.model.DubboProvider]dubbo_privider初始化异常:org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'com.zZooper.service.DubboProviderService': Instantiation of bean failed; nested exception is java.lang.ExceptionInInitializerError
+  [INFO] [2017-09-23 17:00:35][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Run shutdown hook now., dubbo version: 2.5.5, current host: 127.0.0.1
+  [INFO] [2017-09-23 17:00:35][com.alibaba.dubbo.registry.support.AbstractRegistryFactory] [DUBBO] Close all registries [], dubbo version: 2.5.5, current host: 127.0.0.1
+  [INFO] [2017-09-23 17:02:54][com.zZooper.model.DubboProvider]dubbo_privider初始化开始
+  [INFO] [2017-09-23 17:02:54][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@16643d4: startup date [Sat Sep 23 17:02:54 CST 2017]; root of context hierarchy
+  [INFO] [2017-09-23 17:02:54][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [dubbo-provider.xml]
+  [INFO] [2017-09-23 17:02:54][com.alibaba.dubbo.common.logger.LoggerFactory]using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+  [ERROR] [2017-09-23 17:02:54][com.zZooper.model.DubboProvider]dubbo_privider初始化异常:org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'com.zZooper.service.DubboProviderService': Instantiation of bean failed; nested exception is java.lang.ExceptionInInitializerError
+  [INFO] [2017-09-23 17:02:54][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Run shutdown hook now., dubbo version: 2.5.5, current host: 127.0.0.1
+  [INFO] [2017-09-23 17:02:54][com.alibaba.dubbo.registry.support.AbstractRegistryFactory] [DUBBO] Close all registries [], dubbo version: 2.5.5, current host: 127.0.0.1
+  [INFO] [2017-09-23 17:07:23][com.zZooper.model.DubboProvider]dubbo_privider初始化开始
+  [INFO] [2017-09-23 17:07:23][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@199d22e: startup date [Sat Sep 23 17:07:23 CST 2017]; root of context hierarchy
+  [INFO] [2017-09-23 17:07:23][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [dubbo-provider.xml]
+  [INFO] [2017-09-23 17:07:23][com.alibaba.dubbo.common.logger.LoggerFactory]using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+  [ERROR] [2017-09-23 17:07:24][com.zZooper.model.DubboProvider]dubbo_privider初始化异常:org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'com.zZooper.service.DubboProviderService': Instantiation of bean failed; nested exception is java.lang.ExceptionInInitializerError
+  [INFO] [2017-09-23 17:07:24][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Run shutdown hook now., dubbo version: 2.5.5, current host: 127.0.0.1
+  [INFO] [2017-09-23 17:07:24][com.alibaba.dubbo.registry.support.AbstractRegistryFactory] [DUBBO] Close all registries [], dubbo version: 2.5.5, current host: 127.0.0.1
+  [INFO] [2017-09-23 17:07:34][com.zZooper.model.DubboProvider]dubbo_privider初始化开始
+  [INFO] [2017-09-23 17:07:34][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@16643d4: startup date [Sat Sep 23 17:07:34 CST 2017]; root of context hierarchy
+  [INFO] [2017-09-23 17:07:34][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [dubbo-provider.xml]
+  [INFO] [2017-09-23 17:07:34][com.alibaba.dubbo.common.logger.LoggerFactory]using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+  [ERROR] [2017-09-23 17:07:34][com.zZooper.model.DubboProvider]dubbo_privider初始化异常:org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'com.zZooper.service.DubboProviderService': Instantiation of bean failed; nested exception is java.lang.ExceptionInInitializerError
+  [INFO] [2017-09-23 17:07:34][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Run shutdown hook now., dubbo version: 2.5.5, current host: 127.0.0.1
+  [INFO] [2017-09-23 17:07:34][com.alibaba.dubbo.registry.support.AbstractRegistryFactory] [DUBBO] Close all registries [], dubbo version: 2.5.5, current host: 127.0.0.1
+  [INFO] [2017-09-23 17:07:51][com.zZooper.model.DubboProvider]dubbo_privider初始化开始
+  [INFO] [2017-09-23 17:07:51][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@199d22e: startup date [Sat Sep 23 17:07:51 CST 2017]; root of context hierarchy
+  [INFO] [2017-09-23 17:07:51][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [dubbo-provider.xml]
+  [INFO] [2017-09-23 17:07:52][com.alibaba.dubbo.common.logger.LoggerFactory]using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+  [ERROR] [2017-09-23 17:07:52][com.zZooper.model.DubboProvider]dubbo_privider初始化异常:org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'com.zZooper.service.DubboProviderService': Instantiation of bean failed; nested exception is java.lang.ExceptionInInitializerError
+  [INFO] [2017-09-23 17:07:52][com.alibaba.dubbo.config.AbstractConfig] [DUBBO] Run shutdown hook now., dubbo version: 2.5.5, current host: 127.0.0.1
+  [INFO] [2017-09-23 17:07:52][com.alibaba.dubbo.registry.support.AbstractRegistryFactory] [DUBBO] Close all registries [], dubbo version: 2.5.5, current host: 127.0.0.1
+  
