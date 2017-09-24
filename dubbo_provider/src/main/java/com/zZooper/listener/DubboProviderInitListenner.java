@@ -17,7 +17,7 @@ public class DubboProviderInitListenner implements ServletContextListener{
         try {
             ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext(new String[] {"dubbo-provider.xml"});
             context.start();
-            System.in.read();
+//            System.in.read();
 
             log.info("dubbo_privider初始化结束");
         }catch (Exception e){

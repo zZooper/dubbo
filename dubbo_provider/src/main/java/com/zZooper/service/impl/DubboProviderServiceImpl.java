@@ -5,6 +5,6 @@ import org.springframework.stereotype.Service;
 
 public class DubboProviderServiceImpl implements DubboProviderService{
     public String sayHello(String name) {
-        return "hello" + name;
+        return "hello！nihao" + name;
     }
 }
